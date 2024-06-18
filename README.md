@@ -1,2 +1,2 @@
 # namestoad
-a program that automatically converts data (name of employee) to the RMRAIL AD standart
+a program that automatically converts data (name of employee) to the RMRAIL AD standard
